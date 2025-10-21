@@ -11,5 +11,12 @@ Metodo Sort Bubble
 ### Práctica 2 - 21/OCT
 Método Sort Selection en Java y Python
 
-Salida de Python 
-[text](assets)
+
+
+## Resultado de Salida de Python 
+
+![Resultado de Ejecución](assets/sortSelectionPy.png)
+
+## Resultado de Salida de Java
+ 
+![Resultado de Ejecución](assets/sortSelectionJava.png)
